@@ -311,12 +311,73 @@
           left: 750px;
           position: absolute;
           }
-          #pt1{
-            top: 3900px;
-            left: 750px;
+      
+          input {
+            outline: 0;
+            border-width: 0 0 2px;
+            border-color: black;
+            opacity: 0.5;
+            font-size: 25px;
             position: absolute;
-            border: 0px;
-            border-bottom: #FB3B64;
-          }        
+            top: 3860px;
+            left: 745px;
+            width: 500px;
+          }
+          #email
+          {
+            top: 3940px;
+            left: 750px;
+            color: #08A6E4;
+            font-size: 30px;
+            position: absolute;
+          }
+          #input2 {
+            outline: 0;
+            border-width: 0 0 2px;
+            border-color: black;
+            opacity: 0.5;
+            font-size: 25px;
+            position: absolute;
+            top: 3975px;
+            left: 745px;
+            width: 500px;
+          }
+          #inp
+          {
+            position: absolute;
+            top: 4050px;
+            left: 740px;
+            height: 25px;
+            width: 25px;
+          }
+          #zgoda
+          {
+            position: absolute;
+            font-size: 20px;
+            top: 4050px;
+            left: 800px;
+            text-align: justify;
+            width: 450px;
+          }
+          #guzik4
+          {
+            background-color: #07ACE6;
+            width: 226px;
+            height: 57px;
+            border-radius: 35px;
+            position: absolute;
+            border: 1px solid #07ACE6;
+            color: white;
+            top: 4270px;
+            left: 1050px;
+          }
+          footer{
+            background-color: gray;
+            top: 4400px;
+            position: absolute;
+            width: 100%;
+            height: 100px;
+          }
+
           
           
